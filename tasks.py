@@ -23,6 +23,39 @@ def crear_tablas(conexion):
     ''')
     conexion.commit()
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def agregar_lista(conexion, nombre_lista):
     cursor = conexion.cursor()
     cursor.execute('''
