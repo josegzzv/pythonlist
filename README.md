@@ -133,6 +133,10 @@ El programa utiliza una base de datos SQLite llamada `tareas.db`, que contiene l
   - `descripcion` (TEXT): Descripción de la tarea.
   - `completada` (BOOLEAN): Estado de la tarea (`0` para pendiente, `1` para completada).
 
+## Descargo de responsabilidad / Aviso legal
+
+Este proyecto ha sido desarrollado únicamente con fines educativos. No se recomienda su uso en entornos de producción o en aplicaciones comerciales sin una revisión exhaustiva y adaptaciones adicionales. El autor no se hace responsable de ningún daño o pérdida que pueda surgir del uso de este software.
+
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, siéntete libre de hacer un fork y enviar un pull request.
