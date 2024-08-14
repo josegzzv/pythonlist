@@ -57,6 +57,11 @@ The program uses an SQLite database named `tareas.db`, which contains the follow
   - `descripcion` (TEXT): Description of the task.
   - `completada` (BOOLEAN): Task status (`0` for pending, `1` for completed).
 
+## Disclaimer
+
+This program is provided for educational purposes only. It is intended to help users understand the basic functionality of the `sqlite3` library in Python. Error handling, best practices, and security considerations have not been implemented in this example. Please use this code responsibly and adapt it to your specific needs, incorporating proper error handling and following best practices for production code.
+
+
 ## Contributions
 
 Contributions are welcome. If you want to improve this project, feel free to fork the repository and submit a pull request.
